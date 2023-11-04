@@ -1,11 +1,11 @@
 # dotfiles
+    system：arch linux
+    wm：bspwm
 
 ## 一个萌新的bspwm的配置
 
-    配置很一般只有polybar和picom是自己亲手制作大部分都是东抄抄西抄抄拼凑的结果
+    配置很一般只有polybar和picom是自己瞎折腾大部分都是东抄抄西抄抄拼凑出来的awa
     各位大佬如果想拿走就拿去吧
-    我是一个追求简洁而又不简单的普通linux用户
-    我很喜欢linux
 
 ## _____________________________
 ## 用户信息
